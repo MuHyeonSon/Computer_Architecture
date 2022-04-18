@@ -1,3 +1,5 @@
+#MIPS Memory Modeling program 손무현
+
 #include <stdio.h>
 
 unsigned char progMEM[0x100000], dataMEM[0x100000], stakMEM[0x100000];
