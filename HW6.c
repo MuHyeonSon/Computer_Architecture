@@ -1,4 +1,4 @@
-#MIPS Memory Modeling program 손무현
+//MIPS Memory Modeling program 손무현
 
 #include <stdio.h>
 
